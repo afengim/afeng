@@ -586,3 +586,9 @@ body.dark-open {
 .dark-open .archive-filter-2 .filter li {
     border-right: 1px solid #262c3a;
 }
+
+
+.dark-open .post-cms-series .btn-white{
+    background-color: transparent;
+    border-color: transparent;
+}
